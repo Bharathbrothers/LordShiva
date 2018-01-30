@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lord Shiva</string>
+
+    <string name="slideshow_on">Slideshow On</string>
+
+    <string name="title_activity_slide_show">SlideShow</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_slide">SlideActivity</string>
+</resources>
